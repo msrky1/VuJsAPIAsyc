@@ -1,0 +1,42 @@
+.body {
+  background-color: black;
+}
+.text-border {
+  text-size-adjust: 20px;
+  color: skyblue;
+  border-radius: 10px;
+}
+
+.container {
+  size: 40px;
+
+  left: auto;
+}
+.container {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  text-align: center;
+  padding: 10px;;
+}
+.male {
+  background-color: skyblue;
+  color:black;
+  border-radius: 5px;
+
+  border-color: rgb(0, 183, 255);
+}
+.female {
+  background-color: pink;
+  color: black;
+  border-radius: 5px;
+  border-color: rgb(138, 88, 96);
+}
+.picture {
+
+  border-radius: 50px;
+  width: 150px;
+  height: 150px;
+  border: 3px solid purple;
+}
+
